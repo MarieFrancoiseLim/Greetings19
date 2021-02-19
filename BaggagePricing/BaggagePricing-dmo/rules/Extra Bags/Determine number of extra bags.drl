@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ilog.rules.studio.model.brl:ActionRule xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ilog.rules.studio.model.brl="http://ilog.rules.studio/model/brl.ecore">
   <name>Determine number of extra bags</name>
-  <uuid>f3d9daac-d938-4501-8818-b749d113a5ad</uuid>
+  <uuid>dd436a78-f1ab-44cd-ac16-014940902eee</uuid>
   <locale>en_US</locale>
   <definition><![CDATA[if
  the number of elements in the bags of 'the checked baggage' 

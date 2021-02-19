@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <com.ibm.rules.studio.model.decisionservice:Deployment xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.rules.studio.model.decisionservice="http://com.ibm.rules.studio/model/decisionservice.ecore" ruleAppName="decisions.baggagepricing:BaggagePricing" ruleAppVersion="1.0.0" packageName="myModel" managingXom="true">
   <name>BaggagePricing</name>
-  <uuid>c89be754-4af1-4a37-bdff-67ee486bd5c9</uuid>
+  <uuid>5357047b-86ae-4507-a79d-deff7853737c</uuid>
   <locales>en_US</locales>
   <operations operationName="BaggagePricing">
-    <operation href="BaggagePricing.dop#31c446cb-1660-4a94-9e8d-9d63d4bf3c14"/>
+    <operation href="BaggagePricing.dop#47d1779c-e01a-4649-9499-46df136e066e"/>
     <properties key="ruleset.version">
       <value><![CDATA[1.0]]></value>
     </properties>

@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<com.ibm.rules.studio.model.decisionservice:Deployment xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.rules.studio.model.decisionservice="http://com.ibm.rules.studio/model/decisionservice.ecore" ruleAppName="decisions.baggagepricing:BaggagePricing_DataModel" ruleAppVersion="1.0.0" packageName="myModel" managingXom="true">
-  <name>BaggagePricing_DataModel</name>
-  <uuid>e7c4e3d1-5397-4fbd-9fb9-8a7923c1697e</uuid>
+<com.ibm.rules.studio.model.decisionservice:Deployment xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.rules.studio.model.decisionservice="http://com.ibm.rules.studio/model/decisionservice.ecore" ruleAppName="decisions.salutation2:Salutation2" ruleAppVersion="1.0.0" packageName="myModel" managingXom="true">
+  <name>Salutation2</name>
+  <uuid>743aa690-7ea8-41da-a315-26ed83bb545b</uuid>
   <locales>en_US</locales>
+  <operations operationName="Salutation2">
+    <operation href="Salutation2.dop#894ced17-fd25-4918-bdee-6a75173757bf"/>
+    <properties key="ruleset.version">
+      <value><![CDATA[1.0]]></value>
+    </properties>
+  </operations>
   <versionPolicies label="Increment minor version numbers" ruleset="INCREMENT_MINOR" default="true" recurrent="true">
     <description><![CDATA[Updates the minor version for each ruleset. Makes the new version available but retains previous versions.]]></description>
   </versionPolicies>

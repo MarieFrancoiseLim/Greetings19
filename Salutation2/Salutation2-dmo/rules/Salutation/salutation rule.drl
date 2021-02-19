@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ilog.rules.studio.model.brl:ActionRule xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ilog.rules.studio.model.brl="http://ilog.rules.studio/model/brl.ecore">
-  <name>Build results</name>
-  <uuid>ef1e818f-3875-4460-b6bd-2ada2280eca5</uuid>
+  <name>salutation rule</name>
+  <uuid>89131131-74af-4f08-ad21-0bb6aa2d6510</uuid>
   <locale>en_US</locale>
-  <definition><![CDATA[set decision to  'the extra bag fees' + 'the extra weight fees' ;]]></definition>
+  <definition><![CDATA[set decision to 'the greeting' + " " + 'the courtesy title' + " " + the name of 'the customer' + "!" ;]]></definition>
 </ilog.rules.studio.model.brl:ActionRule>

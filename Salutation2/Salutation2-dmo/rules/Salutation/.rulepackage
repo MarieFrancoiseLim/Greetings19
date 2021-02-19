@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ilog.rules.studio.model.base:RulePackage xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ilog.rules.studio.model.base="http://ilog.rules.studio/model/base.ecore">
-  <name>Extra Baggage Fees</name>
-  <uuid>e3f59c64-f764-4623-8feb-86b0a6fda861</uuid>
+  <name>Salutation</name>
+  <uuid>5d59e755-e992-44c0-be9d-b18291a9395c</uuid>
 </ilog.rules.studio.model.base:RulePackage>

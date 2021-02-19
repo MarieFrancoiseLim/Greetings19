@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ilog.rules.studio.model.base:RulePackage xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ilog.rules.studio.model.base="http://ilog.rules.studio/model/base.ecore">
   <name>Total Weight</name>
-  <uuid>3d2c05fb-8038-4897-a224-7682451280ab</uuid>
+  <uuid>67a6e1eb-35ec-417a-87be-77f5c2454458</uuid>
 </ilog.rules.studio.model.base:RulePackage>

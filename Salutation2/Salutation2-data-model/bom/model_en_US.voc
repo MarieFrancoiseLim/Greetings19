@@ -1,0 +1,16 @@
+
+# myModel.Degree
+myModel.Degree#concept.label = degree
+myModel.Degree.Doctor#instance.label = Doctor
+myModel.Degree.Professor#instance.label = Professor
+
+# myModel.Person
+myModel.Person#concept.label = person
+myModel.Person.Person(myModel.Degree,java.lang.String,java.lang.String)#phrase.navigation = a new {person} where {0, degree} {1, gender} {2, name} 
+myModel.Person.degree#phrase.action = set the degree of {this} to {degree}
+myModel.Person.degree#phrase.clearer = clear the degree of {this}
+myModel.Person.degree#phrase.navigation = {degree} of {this}
+myModel.Person.gender#phrase.action = set the gender of {this} to {gender}
+myModel.Person.gender#phrase.navigation = {gender} of {this}
+myModel.Person.name#phrase.action = set the name of {this} to {name}
+myModel.Person.name#phrase.navigation = {name} of {this}

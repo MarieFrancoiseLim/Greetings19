@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ilog.rules.studio.model.base:RulePackage xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ilog.rules.studio.model.base="http://ilog.rules.studio/model/base.ecore">
   <name>Weight Allowance</name>
-  <uuid>f1ec0d8c-dc20-4571-a314-cd4078bc684e</uuid>
+  <uuid>57c259c3-a4c3-4ad5-82f5-739e806922a2</uuid>
 </ilog.rules.studio.model.base:RulePackage>

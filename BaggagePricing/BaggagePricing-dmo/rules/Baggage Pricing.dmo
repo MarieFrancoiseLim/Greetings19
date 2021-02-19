@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <com.ibm.rules.studio.model.decisionmodel:DecisionModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.rules.studio.model.decisionmodel="http://com.ibm.rules.studio/model/decisionmodel.ecore">
   <name>Baggage Pricing</name>
-  <uuid>371b8eb3-7160-4d27-81f0-81446eeece9b</uuid>
+  <uuid>9a14bd5d-ec05-458e-bb9d-08f7ede65a39</uuid>
   <locale>en_US</locale>
   <definition><definitions xmlns="http://www.omg.org/spec/DMN/20180521/MODEL/" id="decisions" name="Baggage Pricing" namespace="">
     <extensionElements>

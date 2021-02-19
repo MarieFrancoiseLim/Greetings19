@@ -1,0 +1,8 @@
+{
+  "theCustomer" : {
+    "name" : "Jones",
+    "gender" : "Female",
+    "degree" : "Professor"
+  },
+  "theHour" : 20
+}
