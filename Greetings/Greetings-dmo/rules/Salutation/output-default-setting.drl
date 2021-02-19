@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ilog.rules.studio.model.brl:ActionRule xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ilog.rules.studio.model.brl="http://ilog.rules.studio/model/brl.ecore">
+  <name>output-default-setting</name>
+  <uuid>4e05da4f-f531-4420-b9a4-cb4776232870</uuid>
+  <locale>en_US</locale>
+  <definition><![CDATA[set decision to " We don't have correct information to greet you!" ;]]></definition>
+</ilog.rules.studio.model.brl:ActionRule>
