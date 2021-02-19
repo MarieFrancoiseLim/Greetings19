@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ibm.rules.studio.model.decisionservice:Operation xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.rules.studio.model.decisionservice="http://com.ibm.rules.studio/model/decisionservice.ecore" rulesetName="BaggagePricing" targetRuleProjectName="BaggagePricing-dmo">
+  <name>BaggagePricingDecision</name>
+  <uuid>31c446cb-1660-4a94-9e8d-9d63d4bf3c14</uuid>
+  <decisionModel href="../rules/Baggage%20Pricing.dmo#371b8eb3-7160-4d27-81f0-81446eeece9b"/>
+  <targetRuleProject href="../../BaggagePricing-dmo#26a2e2d6-1b71-4a4c-8547-2c348b88c337"/>
+</com.ibm.rules.studio.model.decisionservice:Operation>
