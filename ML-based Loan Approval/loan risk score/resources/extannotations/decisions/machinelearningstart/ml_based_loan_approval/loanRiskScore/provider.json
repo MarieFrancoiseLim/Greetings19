@@ -1,0 +1,9 @@
+{
+  "name" : "decisions/MachineLearningStart/ml-sample1613741851529",
+  "type" : "WML",
+  "description" : "",
+  "mlUrl" : "https://eu-gb.ml.cloud.ibm.com/ml/v4",
+  "authUrl" : "https://iam.bluemix.net/identity/token",
+  "instanceId" : "4c354cf4-4694-4888-8746-c415f45a0d54",
+  "apiKey" : null
+}

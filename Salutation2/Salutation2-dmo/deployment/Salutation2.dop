@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<com.ibm.rules.studio.model.decisionservice:Operation xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.rules.studio.model.decisionservice="http://com.ibm.rules.studio/model/decisionservice.ecore" rulesetName="Salutation2" targetRuleProjectName="Salutation2-dmo">
-  <name>Salutation2Decision</name>
-  <uuid>894ced17-fd25-4918-bdee-6a75173757bf</uuid>
-  <decisionModel href="../rules/Salutation2.dmo#1fd8b9fd-6bb5-4a73-ab5e-70accd5f5058"/>
-  <targetRuleProject href="../../Salutation2-dmo#b4c8e39b-dcd2-48cb-9043-1425d429d61f"/>
-</com.ibm.rules.studio.model.decisionservice:Operation>

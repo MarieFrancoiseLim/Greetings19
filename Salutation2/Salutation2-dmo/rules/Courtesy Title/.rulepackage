@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ilog.rules.studio.model.base:RulePackage xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ilog.rules.studio.model.base="http://ilog.rules.studio/model/base.ecore">
-  <name>Courtesy Title</name>
-  <uuid>2f2afb50-36da-407f-b6bb-250b9162097b</uuid>
-</ilog.rules.studio.model.base:RulePackage>
